@@ -1,0 +1,41 @@
+header {
+    border: 1px solid black;
+    font-size: 20px;
+    margin: 0 auto;
+    height: 150px;
+    width: 500px;
+};
+.underScores {
+    border: 1px solid black;
+    font-size: 100px;
+    text-align: center;
+    margin: 50 auto;
+    height: 150px;
+    width: 500px;
+};
+
+.rightGuess {
+    border: 1px solid black;
+    font-size: 50px;
+    text-align: center;
+    margin: 50 auto;
+    height: 150px;
+    width: 500px;
+};
+
+.wrongGuess {
+    border: 1px solid black;
+    font-size: 50px;
+    text-align: center;
+    margin: 50 auto;
+    height: 150px;
+    width: 500px;
+}
+
+.jumbotron {
+    text-align-last: center;
+    
+};
+
+
+
